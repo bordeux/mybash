@@ -19,6 +19,7 @@ tws()
 }
 
 alias tf11="/usr/local/opt/terraform@0.11/bin/terraform"
+alias tf13="/usr/local/Cellar/terraform@0.13/0.13.5/bin/terraform"
 alias tf=terraform
 
 alias tfa="terraform apply"
@@ -31,3 +32,5 @@ alias tfwl="terraform workspace list"
 alias tfwn="terraform workspace new"
 alias tff="terraform fmt"
 alias tfws="terraform workspace select"
+
+alias tf12="/usr/local/opt/terraform@0.12/bin/terraform"
